@@ -1,0 +1,205 @@
+{
+  "Tienda" : {
+    "Cartas" : {
+      "-MvjDdpN1fcUraGnocSe" : {
+        "categoria" : "Negro",
+        "disponible" : true,
+        "id" : "-MvjDdpN1fcUraGnocSe",
+        "imagen" : "https://firebasestorage.googleapis.com/v0/b/practicafinaljose-11bf8.appspot.com/o/Tienda%2Fcartas%2F-MvjDdpN1fcUraGnocSe?alt=media&token=1060aeff-8810-4df6-9e00-0c22840c02fc",
+        "nombre" : "Seasoned Pyromancer",
+        "precio" : 10
+      },
+      "-MvjDuyUm9YT9nLQVOgH" : {
+        "categoria" : "Azul",
+        "disponible" : true,
+        "id" : "-MvjDuyUm9YT9nLQVOgH",
+        "imagen" : "https://firebasestorage.googleapis.com/v0/b/practicafinaljose-11bf8.appspot.com/o/Tienda%2Fcartas%2F-MvjDuyUm9YT9nLQVOgH?alt=media&token=513ca9f6-2a37-4f32-bb13-0176fe2961ac",
+        "nombre" : "Aven Gagglemaster",
+        "precio" : 20
+      },
+      "-MvjE1k8ayDiSHIK3rAR" : {
+        "categoria" : "Azul",
+        "disponible" : true,
+        "id" : "-MvjE1k8ayDiSHIK3rAR",
+        "imagen" : "https://firebasestorage.googleapis.com/v0/b/practicafinaljose-11bf8.appspot.com/o/Tienda%2Fcartas%2F-MvjE1k8ayDiSHIK3rAR?alt=media&token=492d452b-f312-4be7-8223-1eb2ccac244e",
+        "nombre" : "Oppsition Agent",
+        "precio" : 30
+      },
+      "-MvjE8ZKHWUBu2dWcDjD" : {
+        "categoria" : "Rojo",
+        "disponible" : true,
+        "id" : "-MvjE8ZKHWUBu2dWcDjD",
+        "imagen" : "https://firebasestorage.googleapis.com/v0/b/practicafinaljose-11bf8.appspot.com/o/Tienda%2Fcartas%2F-MvjE8ZKHWUBu2dWcDjD?alt=media&token=26c2f706-0c98-4598-8ee8-2a1bbe116a48",
+        "nombre" : "Akki Underling",
+        "precio" : 40
+      },
+      "-MvjENLgy-fo9hsLP8OW" : {
+        "categoria" : "Blanco",
+        "disponible" : true,
+        "id" : "-MvjENLgy-fo9hsLP8OW",
+        "imagen" : "https://firebasestorage.googleapis.com/v0/b/practicafinaljose-11bf8.appspot.com/o/Tienda%2Fcartas%2F-MvjENLgy-fo9hsLP8OW?alt=media&token=6f2439df-693c-46de-bd48-2a8c63517c32",
+        "nombre" : "Shaman of the GreatHunt",
+        "precio" : 75
+      },
+      "-Mw6OkAoHzmftzOonSIF" : {
+        "categoria" : "Negro",
+        "disponible" : true,
+        "id" : "-Mw6OkAoHzmftzOonSIF",
+        "imagen" : "https://firebasestorage.googleapis.com/v0/b/practicafinaljose-11bf8.appspot.com/o/Tienda%2Fcartas%2F-Mw6OkAoHzmftzOonSIF?alt=media&token=42f2afb0-5cb4-40cb-a364-29dc43b35143",
+        "nombre" : "Brutal Hordechief",
+        "precio" : 58
+      },
+      "-Mw6OsiSAIAXkV3bZSRR" : {
+        "categoria" : "Negro",
+        "disponible" : true,
+        "id" : "-Mw6OsiSAIAXkV3bZSRR",
+        "imagen" : "https://firebasestorage.googleapis.com/v0/b/practicafinaljose-11bf8.appspot.com/o/Tienda%2Fcartas%2F-Mw6OsiSAIAXkV3bZSRR?alt=media&token=1125993c-d177-4455-822c-0d572b9dce1f",
+        "nombre" : "Serpentine Spike",
+        "precio" : 23
+      },
+      "-Mw6P5XqLZ4hY5yrEKCz" : {
+        "categoria" : "Verde",
+        "disponible" : true,
+        "id" : "-Mw6P5XqLZ4hY5yrEKCz",
+        "imagen" : "https://firebasestorage.googleapis.com/v0/b/practicafinaljose-11bf8.appspot.com/o/Tienda%2Fcartas%2F-Mw6P5XqLZ4hY5yrEKCz?alt=media&token=957513e0-1f62-422a-a57e-f1b848c6d722",
+        "nombre" : "Ire Shaman",
+        "precio" : 99
+      }
+    },
+    "Eventos" : {
+      "-Mw6RyIC0r0sA_zU6g1i" : {
+        "aforo_max" : 50,
+        "aforo_ocupado" : 0,
+        "fecha" : "2022-2-24",
+        "id" : "-Mw6RyIC0r0sA_zU6g1i",
+        "imagen" : "https://firebasestorage.googleapis.com/v0/b/practicafinaljose-11bf8.appspot.com/o/Tienda%2Feventos%2F-Mw6RyIC0r0sA_zU6g1i?alt=media&token=85d29876-c968-4a39-a84c-15a83afcdd5e",
+        "nombre" : "Tradeo de cartas",
+        "precio" : "96.33"
+      },
+      "-Mw6SAS4w6LiNz4pjYaU" : {
+        "aforo_max" : 100,
+        "aforo_ocupado" : 2,
+        "fecha" : "2022-3-24",
+        "gente_apuntada" : [ "-Mw6PbErZqXIEiIyfp0D", "-Mw20QyUEuS6NJj7RmeN" ],
+        "id" : "-Mw6SAS4w6LiNz4pjYaU",
+        "imagen" : "https://firebasestorage.googleapis.com/v0/b/practicafinaljose-11bf8.appspot.com/o/Tienda%2Feventos%2F-Mw6SAS4w6LiNz4pjYaU?alt=media&token=36d80f9a-5f3d-4ff6-8db6-c3ca09bb790f",
+        "nombre" : "Liga magic",
+        "precio" : "20"
+      },
+      "-Mw6SOHhzAfkjXXKFiLo" : {
+        "aforo_max" : 80,
+        "aforo_ocupado" : 0,
+        "fecha" : "2022-3-10",
+        "id" : "-Mw6SOHhzAfkjXXKFiLo",
+        "imagen" : "https://firebasestorage.googleapis.com/v0/b/practicafinaljose-11bf8.appspot.com/o/Tienda%2Feventos%2F-Mw6SOHhzAfkjXXKFiLo?alt=media&token=0c2872d5-3d1b-4115-acb8-45789ffdad6d",
+        "nombre" : "Tornado cartas raras",
+        "precio" : "25"
+      }
+    },
+    "Pedidos" : {
+      "-Mw6Sj4vC41dBwQmFCtw" : {
+        "estado" : "preparado",
+        "id" : "-Mw6Sj4vC41dBwQmFCtw",
+        "idcarta" : "-MvjDdpN1fcUraGnocSe",
+        "idusuario" : "-Mw20QyUEuS6NJj7RmeN",
+        "notificado" : false
+      },
+      "-Mw6SjIjnV0kLprbMqd8" : {
+        "estado" : "preparado",
+        "id" : "-Mw6SjIjnV0kLprbMqd8",
+        "idcarta" : "-MvjDuyUm9YT9nLQVOgH",
+        "idusuario" : "-Mw20QyUEuS6NJj7RmeN",
+        "notificado" : false
+      },
+      "-Mw6SjTfGKBsH-9TVp68" : {
+        "estado" : "preparacion",
+        "fecha" : "2022-02-17",
+        "id" : "-Mw6SjTfGKBsH-9TVp68",
+        "idcarta" : "-MvjE1k8ayDiSHIK3rAR",
+        "idusuario" : "-Mw20QyUEuS6NJj7RmeN",
+        "notificado" : false
+      },
+      "-Mw6SjoiIg3FGE9vcIC7" : {
+        "estado" : "preparacion",
+        "fecha" : "2022-02-17",
+        "id" : "-Mw6SjoiIg3FGE9vcIC7",
+        "idcarta" : "-MvjE8ZKHWUBu2dWcDjD",
+        "idusuario" : "-Mw20QyUEuS6NJj7RmeN",
+        "notificado" : false
+      },
+      "-Mw6SmAeLQpSmAiNHVlB" : {
+        "estado" : "preparacion",
+        "fecha" : "2022-02-17",
+        "id" : "-Mw6SmAeLQpSmAiNHVlB",
+        "idcarta" : "-Mw6P5XqLZ4hY5yrEKCz",
+        "idusuario" : "-Mw6PbErZqXIEiIyfp0D",
+        "notificado" : false
+      },
+      "-Mw6SmHmzRPNifRLexhZ" : {
+        "estado" : "preparado",
+        "id" : "-Mw6SmHmzRPNifRLexhZ",
+        "idcarta" : "-Mw6OsiSAIAXkV3bZSRR",
+        "idusuario" : "-Mw6PbErZqXIEiIyfp0D",
+        "notificado" : false
+      },
+      "-Mw6SmNscw2zMuTCCNxM" : {
+        "estado" : "preparado",
+        "id" : "-Mw6SmNscw2zMuTCCNxM",
+        "idcarta" : "-Mw6OkAoHzmftzOonSIF",
+        "idusuario" : "-Mw6PbErZqXIEiIyfp0D",
+        "notificado" : false
+      }
+    },
+    "Usuarios" : {
+      "-Mw20QyUEuS6NJj7RmeN" : {
+        "cartasObtenidas" : [ "-MvjDdpN1fcUraGnocSe", "-MvjDuyUm9YT9nLQVOgH" ],
+        "correo" : "jose@gmail.com",
+        "id" : "-Mw20QyUEuS6NJj7RmeN",
+        "imagenUsu" : "https://firebasestorage.googleapis.com/v0/b/practicafinaljose-11bf8.appspot.com/o/userDefaultImage.png?alt=media&token=5ee89752-72d8-459f-b408-52cb8defe137",
+        "login" : "jose",
+        "notificado" : false,
+        "password" : "123",
+        "tipo" : "usuario"
+      },
+      "-Mw20VEddG3I3XVBvy_A" : {
+        "correo" : "admin@gmail.com",
+        "id" : "-Mw20VEddG3I3XVBvy_A",
+        "imagenUsu" : "https://firebasestorage.googleapis.com/v0/b/practicafinaljose-11bf8.appspot.com/o/userDefaultImage.png?alt=media&token=5ee89752-72d8-459f-b408-52cb8defe137",
+        "login" : "admin",
+        "password" : "admin",
+        "tipo" : "admin"
+      },
+      "-Mw6PbErZqXIEiIyfp0D" : {
+        "cartasObtenidas" : [ "-Mw6OkAoHzmftzOonSIF", "-Mw6OsiSAIAXkV3bZSRR" ],
+        "correo" : "omar@gmail.com",
+        "id" : "-Mw6PbErZqXIEiIyfp0D",
+        "imagenUsu" : "https://firebasestorage.googleapis.com/v0/b/practicafinaljose-11bf8.appspot.com/o/userDefaultImage.png?alt=media&token=5ee89752-72d8-459f-b408-52cb8defe137",
+        "login" : "omar",
+        "notificado" : false,
+        "password" : "123",
+        "tipo" : "usuario"
+      },
+      "-Mw6Y_fz4f2ZX08ruJY4" : {
+        "correo" : "luis@gmail.com",
+        "id" : "-Mw6Y_fz4f2ZX08ruJY4",
+        "imagenUsu" : "https://firebasestorage.googleapis.com/v0/b/practicafinaljose-11bf8.appspot.com/o/userDefaultImage.png?alt=media&token=5ee89752-72d8-459f-b408-52cb8defe137",
+        "login" : "luis",
+        "notificado" : false,
+        "password" : "123",
+        "tipo" : "usuario"
+      }
+    },
+    "reservaEventos" : {
+      "-Mw6SpC4yL7mLjzEg7t6" : {
+        "id" : "-Mw6SpC4yL7mLjzEg7t6",
+        "idEvento" : "-Mw6SAS4w6LiNz4pjYaU",
+        "idUsuario" : "-Mw6PbErZqXIEiIyfp0D"
+      },
+      "-Mw6Ss4yWtoto0mtRc-T" : {
+        "id" : "-Mw6Ss4yWtoto0mtRc-T",
+        "idEvento" : "-Mw6SAS4w6LiNz4pjYaU",
+        "idUsuario" : "-Mw20QyUEuS6NJj7RmeN"
+      }
+    }
+  }
+}
